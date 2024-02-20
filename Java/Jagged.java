@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class JaggedArray {
+public class Jagged {
     public static void main(String[] args){
         int[][] arr = new int[3][];
 
